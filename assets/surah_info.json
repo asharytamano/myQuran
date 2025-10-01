@@ -1,0 +1,686 @@
+{
+  "1": {
+    "name": "Al-Fatihah",
+    "type": "Makki",
+    "ayah_count": 7,
+    "overview": "Known as the Opening, this surah is a prayer for guidance, lordship, and mercy."
+  },
+  "2": {
+    "name": "Al-Baqarah",
+    "type": "Madani",
+    "ayah_count": 286,
+    "overview": "The longest surah in the Qur'an, covering law, faith, guidance, and stories of prophets."
+  },
+  "3": {
+    "name": "Al-Imran",
+    "type": "Madani",
+    "ayah_count": 200,
+    "overview": "Focuses on the family of Imran, steadfastness, and lessons from battles."
+  },
+  "4": {
+    "name": "An-Nisa",
+    "type": "Madani",
+    "ayah_count": 176,
+    "overview": "Addresses family law, inheritance, and justice in social relations."
+  },
+  "5": {
+    "name": "Al-Maidah",
+    "type": "Madani",
+    "ayah_count": 120,
+    "overview": "Deals with dietary laws, covenants, and the story of Jesus and the disciples."
+  },
+  "6": {
+    "name": "Al-Anam",
+    "type": "Makki",
+    "ayah_count": 165,
+    "overview": "Emphasizes monotheism and arguments against polytheism."
+  },
+  "7": {
+    "name": "Al-Araf",
+    "type": "Makki",
+    "ayah_count": 206,
+    "overview": "Narrates stories of prophets and the people of the Heights on Judgment Day."
+  },
+  "8": {
+    "name": "Al-Anfal",
+    "type": "Madani",
+    "ayah_count": 75,
+    "overview": "Revealed after the Battle of Badr, covers war rules and distribution of spoils."
+  },
+  "9": {
+    "name": "At-Tawbah",
+    "type": "Madani",
+    "ayah_count": 129,
+    "overview": "Known as the Declaration of Immunity, discusses treaties and hypocrites."
+  },
+  "10": {
+    "name": "Yunus",
+    "type": "Makki",
+    "ayah_count": 109,
+    "overview": "Named after Prophet Jonah, emphasizing divine mercy and signs of God."
+  },
+  "11": {
+    "name": "Hud",
+    "type": "Makki",
+    "ayah_count": 123,
+    "overview": "Contains narratives of earlier prophets, stressing patience and reliance on Allah."
+  },
+  "12": {
+    "name": "Yusuf",
+    "type": "Makki",
+    "ayah_count": 111,
+    "overview": "Tells the complete story of Prophet Joseph, a lesson in patience and destiny."
+  },
+  "13": {
+    "name": "Ar-Rad",
+    "type": "Madani",
+    "ayah_count": 43,
+    "overview": "Stresses Allah's power in nature and people's responses to revelation."
+  },
+  "14": {
+    "name": "Ibrahim",
+    "type": "Makki",
+    "ayah_count": 52,
+    "overview": "Highlights the message of Prophet Abraham and gratitude to Allah."
+  },
+  "15": {
+    "name": "Al-Hijr",
+    "type": "Makki",
+    "ayah_count": 99,
+    "overview": "Warns of past nations' destruction and reassures the Prophet of protection."
+  },
+  "16": {
+    "name": "An-Nahl",
+    "type": "Makki",
+    "ayah_count": 128,
+    "overview": "Called the Bee, discusses blessings of Allah and gratitude."
+  },
+  "17": {
+    "name": "Al-Isra",
+    "type": "Makki",
+    "ayah_count": 111,
+    "overview": "Also called Bani Isra'il; covers moral teachings and the Night Journey."
+  },
+  "18": {
+    "name": "Al-Kahf",
+    "type": "Makki",
+    "ayah_count": 110,
+    "overview": "Famous for the story of the People of the Cave, lessons on faith and trials."
+  },
+  "19": {
+    "name": "Maryam",
+    "type": "Makki",
+    "ayah_count": 98,
+    "overview": "Narrates the story of Mary and miraculous births of prophets."
+  },
+  "20": {
+    "name": "Taha",
+    "type": "Makki",
+    "ayah_count": 135,
+    "overview": "Centers on the story of Moses and Allah's guidance."
+  },
+  "21": {
+    "name": "Al-Anbiya",
+    "type": "Makki",
+    "ayah_count": 112,
+    "overview": "The Prophets; recounts missions of various prophets and Judgment Day."
+  },
+  "22": {
+    "name": "Al-Hajj",
+    "type": "Madani",
+    "ayah_count": 78,
+    "overview": "Discusses pilgrimage, sacrifice, and resurrection."
+  },
+  "23": {
+    "name": "Al-Muminun",
+    "type": "Makki",
+    "ayah_count": 118,
+    "overview": "Characteristics of true believers and stories of earlier prophets."
+  },
+  "24": {
+    "name": "An-Nur",
+    "type": "Madani",
+    "ayah_count": 64,
+    "overview": "Regulates social conduct, modesty, and punishment for slander."
+  },
+  "25": {
+    "name": "Al-Furqan",
+    "type": "Makki",
+    "ayah_count": 77,
+    "overview": "Affirms the Qur’an as criterion of truth and falsehood."
+  },
+  "26": {
+    "name": "Ash-Shuara",
+    "type": "Makki",
+    "ayah_count": 227,
+    "overview": "Covers prophets' struggles and concludes with the role of poets."
+  },
+  "27": {
+    "name": "An-Naml",
+    "type": "Makki",
+    "ayah_count": 93,
+    "overview": "Includes stories of Solomon, Sheba, and signs of Allah."
+  },
+  "28": {
+    "name": "Al-Qasas",
+    "type": "Makki",
+    "ayah_count": 88,
+    "overview": "Narrates life of Moses from birth to mission."
+  },
+  "29": {
+    "name": "Al-Ankabut",
+    "type": "Makki",
+    "ayah_count": 69,
+    "overview": "The Spider; trials of faith and examples from history."
+  },
+  "30": {
+    "name": "Ar-Rum",
+    "type": "Makki",
+    "ayah_count": 60,
+    "overview": "Prophecy of Romans' victory, signs of Allah in creation."
+  },
+  "31": {
+    "name": "Luqman",
+    "type": "Makki",
+    "ayah_count": 34,
+    "overview": "Advice of Luqman to his son; wisdom and gratitude."
+  },
+  "32": {
+    "name": "As-Sajda",
+    "type": "Makki",
+    "ayah_count": 30,
+    "overview": "Emphasizes revelation, resurrection, and prostration to Allah."
+  },
+  "33": {
+    "name": "Al-Ahzab",
+    "type": "Madani",
+    "ayah_count": 73,
+    "overview": "Discusses Battle of the Confederates, family laws, and role of Prophet."
+  },
+  "34": {
+    "name": "Saba",
+    "type": "Makki",
+    "ayah_count": 54,
+    "overview": "Talks about people of Sheba and blessings of Allah."
+  },
+  "35": {
+    "name": "Fatir",
+    "type": "Makki",
+    "ayah_count": 45,
+    "overview": "The Originator; stresses angels, creation, and gratitude."
+  },
+  "36": {
+    "name": "Ya-Sin",
+    "type": "Makki",
+    "ayah_count": 83,
+    "overview": "Known as the heart of the Qur’an; covers resurrection and parables."
+  },
+  "37": {
+    "name": "As-Saffat",
+    "type": "Makki",
+    "ayah_count": 182,
+    "overview": "Talks of angels, prophets, and fate of believers and disbelievers."
+  },
+  "38": {
+    "name": "Sad",
+    "type": "Makki",
+    "ayah_count": 88,
+    "overview": "Narrates stories of David, Solomon, and others; affirms patience."
+  },
+  "39": {
+    "name": "Az-Zumar",
+    "type": "Makki",
+    "ayah_count": 75,
+    "overview": "Highlights sincerity in worship and scenes of the Hereafter."
+  },
+  "40": {
+    "name": "Ghafir",
+    "type": "Makki",
+    "ayah_count": 85,
+    "overview": "The Forgiver; discusses Pharaoh, Moses, and Allah’s forgiveness."
+  },
+  "41": {
+    "name": "Fussilat",
+    "type": "Makki",
+    "ayah_count": 54,
+    "overview": "Also called Ha Mim Sajda; speaks of Qur’an’s clarity and fate of nations."
+  },
+  "42": {
+    "name": "Ash-Shura",
+    "type": "Makki",
+    "ayah_count": 53,
+    "overview": "Encourages consultation, faith, and Allah’s sovereignty."
+  },
+  "43": {
+    "name": "Az-Zukhruf",
+    "type": "Makki",
+    "ayah_count": 89,
+    "overview": "The Gold Adornments; criticizes false worship and materialism."
+  },
+  "44": {
+    "name": "Ad-Dukhan",
+    "type": "Makki",
+    "ayah_count": 59,
+    "overview": "The Smoke; covers warnings and Pharaoh’s fate."
+  },
+  "45": {
+    "name": "Al-Jathiya",
+    "type": "Makki",
+    "ayah_count": 37,
+    "overview": "The Kneeling; speaks of signs of Allah and Judgment Day."
+  },
+  "46": {
+    "name": "Al-Ahqaf",
+    "type": "Makki",
+    "ayah_count": 35,
+    "overview": "Talks about the people of the Dunes and story of jinn listening to Qur’an."
+  },
+  "47": {
+    "name": "Muhammad",
+    "type": "Madani",
+    "ayah_count": 38,
+    "overview": "Also called Surah Qital; deals with warfare and qualities of believers."
+  },
+  "48": {
+    "name": "Al-Fath",
+    "type": "Madani",
+    "ayah_count": 29,
+    "overview": "The Victory; references Treaty of Hudaybiyyah."
+  },
+  "49": {
+    "name": "Al-Hujurat",
+    "type": "Madani",
+    "ayah_count": 18,
+    "overview": "Emphasizes etiquette, brotherhood, and avoiding suspicion."
+  },
+  "50": {
+    "name": "Qaf",
+    "type": "Makki",
+    "ayah_count": 45,
+    "overview": "Deals with resurrection, judgment, and reflection on creation."
+  },
+  "51": {
+    "name": "Adh-Dhariyat",
+    "type": "Makki",
+    "ayah_count": 60,
+    "overview": "The Winnowing Winds; speaks of creation, warnings, and stories of prophets."
+  },
+  "52": {
+    "name": "At-Tur",
+    "type": "Makki",
+    "ayah_count": 49,
+    "overview": "The Mount; emphasizes the truth of resurrection and fate of disbelievers."
+  },
+  "53": {
+    "name": "An-Najm",
+    "type": "Makki",
+    "ayah_count": 62,
+    "overview": "The Star; affirms revelation and condemns idolatry."
+  },
+  "54": {
+    "name": "Al-Qamar",
+    "type": "Makki",
+    "ayah_count": 55,
+    "overview": "The Moon; narrates past peoples’ denial and their destruction."
+  },
+  "55": {
+    "name": "Ar-Rahman",
+    "type": "Madani",
+    "ayah_count": 78,
+    "overview": "The Most Merciful; enumerates Allah’s blessings and contrasts paradise and hell."
+  },
+  "56": {
+    "name": "Al-Waqia",
+    "type": "Makki",
+    "ayah_count": 96,
+    "overview": "The Inevitable; describes scenes of the afterlife and three groups of people."
+  },
+  "57": {
+    "name": "Al-Hadid",
+    "type": "Madani",
+    "ayah_count": 29,
+    "overview": "The Iron; speaks of charity, faith, and worldly detachment."
+  },
+  "58": {
+    "name": "Al-Mujadila",
+    "type": "Madani",
+    "ayah_count": 22,
+    "overview": "The Woman Who Disputes; addresses social issues and secret councils."
+  },
+  "59": {
+    "name": "Al-Hashr",
+    "type": "Madani",
+    "ayah_count": 24,
+    "overview": "The Gathering; refers to Banu Nadir’s exile and Allah’s beautiful names."
+  },
+  "60": {
+    "name": "Al-Mumtahina",
+    "type": "Madani",
+    "ayah_count": 13,
+    "overview": "The Woman to be Examined; on loyalty and dealing with disbelievers."
+  },
+  "61": {
+    "name": "As-Saff",
+    "type": "Madani",
+    "ayah_count": 14,
+    "overview": "The Ranks; encourages unity, sincerity, and struggle in Allah’s cause."
+  },
+  "62": {
+    "name": "Al-Jumua",
+    "type": "Madani",
+    "ayah_count": 11,
+    "overview": "The Friday; highlights the importance of Friday prayer and obedience."
+  },
+  "63": {
+    "name": "Al-Munafiqun",
+    "type": "Madani",
+    "ayah_count": 11,
+    "overview": "The Hypocrites; exposes characteristics of hypocrisy."
+  },
+  "64": {
+    "name": "At-Taghabun",
+    "type": "Madani",
+    "ayah_count": 18,
+    "overview": "Mutual Disillusion; emphasizes belief in Allah, patience, and gratitude."
+  },
+  "65": {
+    "name": "At-Talaq",
+    "type": "Madani",
+    "ayah_count": 12,
+    "overview": "The Divorce; gives regulations for divorce and trust in Allah."
+  },
+  "66": {
+    "name": "At-Tahrim",
+    "type": "Madani",
+    "ayah_count": 12,
+    "overview": "The Prohibition; addresses issues of the Prophet’s household and repentance."
+  },
+  "67": {
+    "name": "Al-Mulk",
+    "type": "Makki",
+    "ayah_count": 30,
+    "overview": "The Sovereignty; highlights Allah’s creation, power, and the Hereafter."
+  },
+  "68": {
+    "name": "Al-Qalam",
+    "type": "Makki",
+    "ayah_count": 52,
+    "overview": "The Pen; defends the Prophet’s character and narrates parable of the owners of the garden."
+  },
+  "69": {
+    "name": "Al-Haaqqa",
+    "type": "Makki",
+    "ayah_count": 52,
+    "overview": "The Inevitable; depicts past destructions and scenes of resurrection."
+  },
+  "70": {
+    "name": "Al-Maarij",
+    "type": "Makki",
+    "ayah_count": 44,
+    "overview": "The Ascending Stairways; describes human impatience and scenes of Judgment Day."
+  },
+  "71": {
+    "name": "Nuh",
+    "type": "Makki",
+    "ayah_count": 28,
+    "overview": "Narrates Prophet Noah’s call to his people and their rejection."
+  },
+  "72": {
+    "name": "Al-Jinn",
+    "type": "Makki",
+    "ayah_count": 28,
+    "overview": "Tells of the jinn hearing the Qur’an and their reactions."
+  },
+  "73": {
+    "name": "Al-Muzzammil",
+    "type": "Makki",
+    "ayah_count": 20,
+    "overview": "The Enshrouded One; encourages night prayer and patience."
+  },
+  "74": {
+    "name": "Al-Muddathir",
+    "type": "Makki",
+    "ayah_count": 56,
+    "overview": "The Cloaked One; calls for warning and patience."
+  },
+  "75": {
+    "name": "Al-Qiyama",
+    "type": "Makki",
+    "ayah_count": 40,
+    "overview": "The Resurrection; vivid description of Judgment Day."
+  },
+  "76": {
+    "name": "Al-Insan",
+    "type": "Madani",
+    "ayah_count": 31,
+    "overview": "The Human; emphasizes charity, patience, and paradise."
+  },
+  "77": {
+    "name": "Al-Mursalat",
+    "type": "Makki",
+    "ayah_count": 50,
+    "overview": "The Emissaries; warns of Judgment Day and fate of disbelievers."
+  },
+  "78": {
+    "name": "An-Naba",
+    "type": "Makki",
+    "ayah_count": 40,
+    "overview": "The Tidings; describes resurrection, creation, and hell vs paradise."
+  },
+  "79": {
+    "name": "An-Naziat",
+    "type": "Makki",
+    "ayah_count": 46,
+    "overview": "The Soul-Snatchers; covers resurrection and story of Pharaoh and Moses."
+  },
+  "80": {
+    "name": "Abasa",
+    "type": "Makki",
+    "ayah_count": 42,
+    "overview": "He Frowned; emphasizes Qur’an’s guidance and accountability."
+  },
+  "81": {
+    "name": "At-Takwir",
+    "type": "Makki",
+    "ayah_count": 29,
+    "overview": "The Overthrowing; portrays cosmic signs of the Last Day."
+  },
+  "82": {
+    "name": "Al-Infitar",
+    "type": "Makki",
+    "ayah_count": 19,
+    "overview": "The Cleaving; describes scenes of the Hereafter."
+  },
+  "83": {
+    "name": "Al-Mutaffifin",
+    "type": "Makki",
+    "ayah_count": 36,
+    "overview": "The Defrauders; warns against cheating in trade and contrasts paradise vs hell."
+  },
+  "84": {
+    "name": "Al-Inshiqaq",
+    "type": "Makki",
+    "ayah_count": 25,
+    "overview": "The Splitting Open; speaks of resurrection and accountability."
+  },
+  "85": {
+    "name": "Al-Buruj",
+    "type": "Makki",
+    "ayah_count": 22,
+    "overview": "The Mansions of the Stars; warns oppressors and praises the steadfast."
+  },
+  "86": {
+    "name": "At-Tariq",
+    "type": "Makki",
+    "ayah_count": 17,
+    "overview": "The Morning Star; asserts Allah’s power over life and death."
+  },
+  "87": {
+    "name": "Al-Ala",
+    "type": "Makki",
+    "ayah_count": 19,
+    "overview": "The Most High; praises Allah and contrasts this life with the Hereafter."
+  },
+  "88": {
+    "name": "Al-Ghashiya",
+    "type": "Makki",
+    "ayah_count": 26,
+    "overview": "The Overwhelming; describes faces of the Hereafter, hell and paradise."
+  },
+  "89": {
+    "name": "Al-Fajr",
+    "type": "Makki",
+    "ayah_count": 30,
+    "overview": "The Dawn; warns arrogant nations and depicts the soul at peace."
+  },
+  "90": {
+    "name": "Al-Balad",
+    "type": "Makki",
+    "ayah_count": 20,
+    "overview": "The City; emphasizes struggle and virtue."
+  },
+  "91": {
+    "name": "Ash-Shams",
+    "type": "Makki",
+    "ayah_count": 15,
+    "overview": "The Sun; contrasts purified vs corrupted souls."
+  },
+  "92": {
+    "name": "Al-Lail",
+    "type": "Makki",
+    "ayah_count": 21,
+    "overview": "The Night; speaks of charity, greed, and ultimate destiny."
+  },
+  "93": {
+    "name": "Ad-Duha",
+    "type": "Makki",
+    "ayah_count": 11,
+    "overview": "The Morning Brightness; reassures the Prophet of Allah’s care."
+  },
+  "94": {
+    "name": "Ash-Sharh",
+    "type": "Makki",
+    "ayah_count": 8,
+    "overview": "The Relief; reminds of ease after hardship."
+  },
+  "95": {
+    "name": "At-Tin",
+    "type": "Makki",
+    "ayah_count": 8,
+    "overview": "The Fig; affirms human dignity and accountability."
+  },
+  "96": {
+    "name": "Al-Alaq",
+    "type": "Makki",
+    "ayah_count": 19,
+    "overview": "The Clot; first revelation, emphasizes reading and knowledge."
+  },
+  "97": {
+    "name": "Al-Qadr",
+    "type": "Makki",
+    "ayah_count": 5,
+    "overview": "The Night of Power; highlights the blessed night when Qur’an was revealed."
+  },
+  "98": {
+    "name": "Al-Bayyina",
+    "type": "Madani",
+    "ayah_count": 8,
+    "overview": "The Clear Proof; stresses purity of faith and distinction between believers and disbelievers."
+  },
+  "99": {
+    "name": "Az-Zalzala",
+    "type": "Madani",
+    "ayah_count": 8,
+    "overview": "The Earthquake; describes the earth shaking on Judgment Day."
+  },
+  "100": {
+    "name": "Al-Adiyat",
+    "type": "Makki",
+    "ayah_count": 11,
+    "overview": "The Chargers; vivid imagery of horses and human ingratitude."
+  },
+  "101": {
+    "name": "Al-Qaria",
+    "type": "Makki",
+    "ayah_count": 11,
+    "overview": "The Striking Calamity; depicts the Day of Judgment."
+  },
+  "102": {
+    "name": "At-Takathur",
+    "type": "Makki",
+    "ayah_count": 8,
+    "overview": "The Rivalry; condemns greed and distraction."
+  },
+  "103": {
+    "name": "Al-Asr",
+    "type": "Makki",
+    "ayah_count": 3,
+    "overview": "The Time; stresses patience, truth, and mutual advice."
+  },
+  "104": {
+    "name": "Al-Humaza",
+    "type": "Makki",
+    "ayah_count": 9,
+    "overview": "The Slanderer; condemns greed and gossip."
+  },
+  "105": {
+    "name": "Al-Fil",
+    "type": "Makki",
+    "ayah_count": 5,
+    "overview": "The Elephant; recalls Allah’s protection of the Kaaba."
+  },
+  "106": {
+    "name": "Quraish",
+    "type": "Makki",
+    "ayah_count": 4,
+    "overview": "Urges Quraysh to worship Allah who secured them and fed them."
+  },
+  "107": {
+    "name": "Al-Maun",
+    "type": "Makki",
+    "ayah_count": 7,
+    "overview": "The Small Kindnesses; condemns hypocrisy and neglect of orphans."
+  },
+  "108": {
+    "name": "Al-Kawthar",
+    "type": "Makki",
+    "ayah_count": 3,
+    "overview": "The Abundance; promises abundant blessings to the Prophet."
+  },
+  "109": {
+    "name": "Al-Kafiroon",
+    "type": "Makki",
+    "ayah_count": 6,
+    "overview": "The Disbelievers; stresses distinction between belief and disbelief."
+  },
+  "110": {
+    "name": "An-Nasr",
+    "type": "Madani",
+    "ayah_count": 3,
+    "overview": "The Divine Support; foretells the Prophet’s victory and people entering Islam in droves."
+  },
+  "111": {
+    "name": "Al-Masad",
+    "type": "Makki",
+    "ayah_count": 5,
+    "overview": "The Palm Fiber; condemns Abu Lahab and his wife."
+  },
+  "112": {
+    "name": "Al-Ikhlas",
+    "type": "Makki",
+    "ayah_count": 4,
+    "overview": "The Sincerity; affirms Allah’s oneness."
+  },
+  "113": {
+    "name": "Al-Falaq",
+    "type": "Makki",
+    "ayah_count": 5,
+    "overview": "The Daybreak; seeks refuge from external evils."
+  },
+  "114": {
+    "name": "An-Nas",
+    "type": "Makki",
+    "ayah_count": 6,
+    "overview": "The Mankind; seeks refuge from internal and external whispers of evil."
+  }
+}
