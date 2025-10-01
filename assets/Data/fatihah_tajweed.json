@@ -1,0 +1,17 @@
+{
+"surah": 1,
+"ayahs": [
+{
+"ayah_number": 1,
+"tajweed": [
+{"text": "بِسْمِ", "rule": "none"},
+{"text": " ", "rule": "none"},
+{"text": "ٱللّٰهِ", "rule": "qalqalah"},
+{"text": " ", "rule": "none"},
+{"text": "الرَّحْمَٰنِ", "rule": "ikhfa"},
+{"text": " ", "rule": "none"},
+{"text": "الرَّحِيمِ", "rule": "ghunnah"}
+]
+}
+]
+}
