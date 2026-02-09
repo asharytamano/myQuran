@@ -1,0 +1,45 @@
+{
+  "surah": 87,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "سَبِّحِ <tajweed class=ham_wasl>ٱ</tajweed>سْمَ رَبِّكَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَعْلَى <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "ٱلَّذِى خَلَقَ فَسَوَّىٰ <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِى قَدَّرَ فَهَدَىٰ <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَخْرَجَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَرْعَىٰ <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "فَجَعَلَهُ<tajweed class=madda_normal>ۥ</tajweed> غُث<tajweed class=madda_obligatory>َا</tajweed>ٓءً أَحْوَىٰ <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "سَنُ<tajweed class=qalaqah>قْ</tajweed>رِئُكَ فَلَا تَ<tajweed class=ikhafa>نس</tajweed>َىٰٓ <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "إِلَّا مَا ش<tajweed class=madda_obligatory>َا</tajweed>ٓءَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ‌ۚ إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> يَعْلَمُ <tajweed class=ham_wasl>ٱ</tajweed>لْجَهْرَ وَمَا يَخْفَىٰ <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ <span class=end>٨</span>"
+    },
+    {
+      "ayah_number": 9,
+      "text_tajweed_html": "فَذَكِّرْ إ<tajweed class=idgham_ghunnah>ِن ن</tajweed>َّفَعَتِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ذِّكْرَىٰ <span class=end>٩</span>"
+    },
+    {
+      "ayah_number": 10,
+      "text_tajweed_html": "سَيَذَّكَّرُ م<tajweed class=idgham_ghunnah>َن ي</tajweed>َخْشَىٰ <span class=end>١٠</span>"
+    }
+  ]
+}

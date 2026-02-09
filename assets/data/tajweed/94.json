@@ -1,0 +1,37 @@
+{
+  "surah": 94,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "أَلَمْ نَشْرَحْ لَكَ صَ<tajweed class=qalaqah>دْ</tajweed>رَكَ <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "وَوَضَعْنَا عَ<tajweed class=ikhafa>نك</tajweed>َ وِزْرَكَ <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "ٱلَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=ikhafa>نق</tajweed>َضَ ظَهْرَكَ <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "وَرَفَعْنَا لَكَ ذِكْرَكَ <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "فَإِ<tajweed class=ghunnah>نّ</tajweed>َ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>لْعُسْرِ يُسْرًا <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>لْعُسْرِ يُسْرًا <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "فَإِذَا فَرَغْتَ فَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نص</tajweed>َ<tajweed class=qalaqah>بْ</tajweed> <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "وَإِلَىٰ رَبِّكَ فَ<tajweed class=ham_wasl>ٱ</tajweed>رْغَ<tajweed class=qalaqah>ب</tajweed> <span class=end>٨</span>"
+    }
+  ]
+}

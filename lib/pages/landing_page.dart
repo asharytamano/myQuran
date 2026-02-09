@@ -57,7 +57,8 @@ class LandingPage extends StatelessWidget {
               title: const Text("Download PDF"),
               onTap: () async {
                 final url = Uri.parse(
-                    "https://drive.google.com/file/d/18RSfRVKqVJ8DtFxtJoWB9rTqswsYtWFl/view");
+                  "https://drive.google.com/file/d/18RSfRVKqVJ8DtFxtJoWB9rTqswsYtWFl/view",
+                );
                 if (await canLaunchUrl(url)) {
                   await launchUrl(url, mode: LaunchMode.externalApplication);
                 }
@@ -95,7 +96,7 @@ class LandingPage extends StatelessWidget {
           ),
           child: Column(
             children: [
-              const SizedBox(height: 200),
+              const SizedBox(height: 240),
               Text(
                 "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
                 textAlign: TextAlign.center,
@@ -119,7 +120,7 @@ class LandingPage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 24.0),
                 child: Text(
-                  "This app features AbuAhmad Tamano's Maranaw Qur'an translation and tafsir. Listen to your favorite reciters, save verses to Favorites, and easily share them for study or on social media.",
+                  "This app features Qur'an translations in Maranao, Tagalog, Bisayan and English. Listen to your favorite reciters, save verses to Favorites, and easily share them for study or on social media.",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.merriweather(
                     fontSize: 14,
@@ -128,101 +129,54 @@ class LandingPage extends StatelessWidget {
                   ),
                 ),
               ),
+              const SizedBox(height: 40), // Reduced space before button
               Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 24.0, vertical: 8),
-                child: Text(
-                  "For the full Tafsir, please visit https://maranaw.com",
-                  textAlign: TextAlign.center,
-                  style: GoogleFonts.merriweather(
-                    fontSize: 14,
-                    color: Colors.white70,
-                    fontStyle: FontStyle.italic,
+                padding: const EdgeInsets.symmetric(horizontal: 40.0),
+                child: SizedBox(
+                  width: double.infinity,
+                  child: ElevatedButton(
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const SurahListPage(),
+                        ),
+                      );
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.amber[700],
+                      padding: const EdgeInsets.symmetric(
+                        vertical: 14,
+                        horizontal: 24,
+                      ),
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(12),
+                      ),
+                    ),
+                    child: Text(
+                      "Go to Surah List",
+                      style: GoogleFonts.merriweather(
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.black,
+                      ),
+                    ),
                   ),
                 ),
               ),
-              const Spacer(),
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 40.0),
-                child: Column(
-                  children: [
-                    SizedBox(
-                      width: double.infinity,
-                      child: ElevatedButton(
-                        onPressed: () {
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (_) => const SurahListPage(),
-                            ),
-                          );
-                        },
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: Colors.amber[700],
-                          padding: const EdgeInsets.symmetric(
-                              vertical: 14, horizontal: 24),
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(12),
-                          ),
-                        ),
-                        child: Text(
-                          "Go to Surah List",
-                          style: GoogleFonts.merriweather(
-                            fontSize: 18,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.black,
-                          ),
-                        ),
-                      ),
-                    ),
-                    const SizedBox(height: 16),
-                    SizedBox(
-                      width: double.infinity,
-                      child: ElevatedButton(
-                        onPressed: () async {
-                          final url = Uri.parse(
-                              "https://drive.google.com/file/d/18RSfRVKqVJ8DtFxtJoWB9rTqswsYtWFl/view");
-                          if (await canLaunchUrl(url)) {
-                            await launchUrl(url,
-                                mode: LaunchMode.externalApplication);
-                          }
-                        },
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: Colors.amber[700],
-                          padding: const EdgeInsets.symmetric(
-                              vertical: 14, horizontal: 24),
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(12),
-                          ),
-                        ),
-                        child: Text(
-                          "Download PDF",
-                          style: GoogleFonts.merriweather(
-                            fontSize: 18,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.black,
-                          ),
-                        ),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-              const SizedBox(height: 20),
+              const Spacer(), // Pushes everything above it to the top
             ],
           ),
         ),
       ),
-
+      // Removed the bottomNavigationBar completely
       bottomNavigationBar: Container(
         color: Colors.amber[700],
         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
         child: Text(
-          "Translation and Tafsir by AbuAhmad Tamano.\nApp developed by Ashary Tamano.",
+          "App developed by Ashary Tamano.",
           textAlign: TextAlign.center,
-          style: GoogleFonts.merriweather(
-            fontSize: 11,
-            color: Colors.black,
-          ),
+          style: GoogleFonts.merriweather(fontSize: 11, color: Colors.black),
         ),
       ),
     );

@@ -1,0 +1,45 @@
+{
+  "surah": 81,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "إِذَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّمْسُ كُوِّرَتْ <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>ُجُومُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نك</tajweed>َدَرَتْ <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed>لْجِبَالُ سُيِّرَتْ <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed>لْعِشَارُ عُطِّلَتْ <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed>لْوُحُوشُ حُشِرَتْ <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed>لْبِحَارُ سُجِّرَتْ <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>ُفُوسُ زُوِّجَتْ <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed>لْمَوْءُ<tajweed class=madda_normal>ۥ</tajweed>دَةُ سُئِلَتْ <span class=end>٨</span>"
+    },
+    {
+      "ayah_number": 9,
+      "text_tajweed_html": "بِأَىِّ ذَ<tajweed class=iqlab>نۢب</tajweed><tajweed class=ikhafa>ٍ ق</tajweed>ُتِلَتْ <span class=end>٩</span>"
+    },
+    {
+      "ayah_number": 10,
+      "text_tajweed_html": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صُّحُفُ نُشِرَتْ <span class=end>١٠</span>"
+    }
+  ]
+}

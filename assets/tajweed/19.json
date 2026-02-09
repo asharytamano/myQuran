@@ -1,0 +1,45 @@
+{
+  "surah": 19,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "<tajweed class=madda_necessary>كٓ</tajweed>هي<tajweed class=madda_necessary>عٓ</tajweed><tajweed class=madda_necessary>صٓ</tajweed> <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "ذِكْرُ رَحْمَتِ رَبِّكَ عَ<tajweed class=qalaqah>بْ</tajweed>دَهُ<tajweed class=madda_normal>ۥ</tajweed> زَكَرِيَّآ <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "إِذْ نَادَىٰ رَبَّهُ<tajweed class=madda_normal>ۥ</tajweed> نِد<tajweed class=madda_obligatory>َا</tajweed>ٓءً خَفِيًّا <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "قَالَ رَبِّ إِ<tajweed class=ghunnah>نّ</tajweed>ِى وَهَنَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَظْمُ مِ<tajweed class=ghunnah>نّ</tajweed>ِى وَ<tajweed class=ham_wasl>ٱ</tajweed>شْتَعَلَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّأْسُ شَيْ<tajweed class=idgham_ghunnah>بًا و</tajweed>َلَمْ أَك<tajweed class=iqlab>ُنۢ ب</tajweed>ِدُع<tajweed class=madda_obligatory>َا</tajweed>ٓئِكَ رَبِّ شَقِيًّا <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>ِى خِفْتُ <tajweed class=ham_wasl>ٱ</tajweed>لْمَو<tajweed class=madda_normal>َٲ</tajweed>لِىَ م<tajweed class=idgham_ghunnah>ِن و</tajweed>َر<tajweed class=madda_obligatory>َا</tajweed>ٓءِى وَكَانَتِ <tajweed class=ham_wasl>ٱ</tajweed>مْرَأَتِى عَاقِ<tajweed class=ikhafa>رًا ف</tajweed>َهَ<tajweed class=qalaqah>بْ</tajweed> لِى م<tajweed class=idgham_wo_ghunnah>ِن ل</tajweed>َّدُ<tajweed class=ikhafa>نك</tajweed>َ وَلِيًّا <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ‌ۖ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>جْ</tajweed>عَلْهُ رَبِّ رَضِيًّا <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "يَ<tajweed class=madda_normal>ـٰ</tajweed>زَكَرِيّ<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َا نُبَشِّرُكَ بِغُلَ<tajweed class=madda_normal>ـٰ</tajweed>مٍ <tajweed class=ham_wasl>ٱ</tajweed>سْمُهُ<tajweed class=madda_normal>ۥ</tajweed> يَحْيَىٰ لَمْ نَ<tajweed class=qalaqah>جْ</tajweed>عَل لَّهُ<tajweed class=madda_normal>ۥ</tajweed> مِ<tajweed class=ikhafa>ن ق</tajweed>َ<tajweed class=qalaqah>بْ</tajweed>لُ سَمِيًّا <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "قَالَ رَبِّ أَ<tajweed class=ghunnah>نّ</tajweed>َىٰ يَكُونُ لِى غُلَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>مٌ و</tajweed>َكَانَتِ <tajweed class=ham_wasl>ٱ</tajweed>مْرَأَتِى عَاقِ<tajweed class=idgham_ghunnah>رًا و</tajweed>َقَ<tajweed class=qalaqah>دْ</tajweed> بَلَغْتُ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْكِبَرِ عِتِيًّا <span class=end>٨</span>"
+    },
+    {
+      "ayah_number": 9,
+      "text_tajweed_html": "قَالَ كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّ<tajweed class=idgham_ghunnah>نٌ و</tajweed>َقَ<tajweed class=qalaqah>دْ</tajweed> خَلَ<tajweed class=qalaqah>قْ</tajweed>تُكَ مِ<tajweed class=ikhafa>ن ق</tajweed>َ<tajweed class=qalaqah>بْ</tajweed>لُ وَلَمْ تَكُ شَيْــًٔا <span class=end>٩</span>"
+    },
+    {
+      "ayah_number": 10,
+      "text_tajweed_html": "قَالَ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>جْ</tajweed>عَل لّ<tajweed class=madda_obligatory>ِىٓ</tajweed> ءَايَ<tajweed class=ikhafa>ةً‌ۚ ق</tajweed>َالَ ءَايَتُكَ أَلَّا تُكَلِّمَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسَ ثَلَ<tajweed class=madda_normal>ـٰ</tajweed>ثَ لَيَا<tajweed class=ikhafa>لٍ س</tajweed>َوِيًّا <span class=end>١٠</span>"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ description: A new Flutter project.
 
 publish_to: "none" # Remove this if you plan to publish
 
-version: 1.0.0+1
+version: 1.1.0+9
 
 environment:
   sdk: '^3.9.0'
@@ -12,11 +12,13 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.2.0
+  html: ^0.15.4
   google_fonts: ^6.2.0
   url_launcher: ^6.2.6
   audioplayers: ^5.2.1
-  share_plus: ^10.0.2   # 🔹 add this
+  share_plus: ^10.0.30+30   # 🔹 add this
   shared_preferences: ^2.2.3
+  scrollable_positioned_list: ^0.3.8
 
 dev_dependencies:
   flutter_test:

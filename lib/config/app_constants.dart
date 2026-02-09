@@ -2,7 +2,7 @@ class AppConstants {
   // 🔹 App Info
   static const String appName = "myQuran";
   static const String appVersion = "1.0.0";
-  static const String appAuthor = "Engr. Abdulbasit Tamano & Team";
+  static const String appAuthor = "Maranaw.com Team";
   static const String repoUrl =
       "https://github.com/asharytamano/quran-translations";
 
@@ -10,7 +10,7 @@ class AppConstants {
   static const String splashTagline = "Maranao Tafsir – Qur’an for Everyone";
 
   // 🔹 Translation Credits
-  static const String maranaoTranslator = "Abu Ahmad Tamano";
+  static const String maranaoTranslator = "Abu Ahmad";
   static const String tagalogTranslator = "Rowwad Translation Center";
   static const String bisayanTranslator = "Rowwad Translation Center";
   static const String englishTranslator = "Rowwad Translation Center";

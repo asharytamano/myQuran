@@ -3,7 +3,6 @@ import 'splash_page.dart';
 import 'pages/favorites_page.dart';
 import 'pages/reciters_page.dart';
 import 'pages/help_page.dart';
-import 'pages/test_json_page.dart';
 
 void main() {
   runApp(const MaranawTafsirApp());

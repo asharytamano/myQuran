@@ -1,0 +1,45 @@
+{
+  "surah": 80,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "عَبَسَ وَتَوَلَّىٰٓ <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "أَ<tajweed class=ikhafa>ن ج</tajweed><tajweed class=madda_obligatory>َا</tajweed>ٓءَهُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَعْمَىٰ <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "وَمَا يُ<tajweed class=qalaqah>دْ</tajweed>رِيكَ لَعَلَّهُ<tajweed class=madda_normal>ۥ</tajweed> يَزَّكَّىٰٓ <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "أَوْ يَذَّكَّرُ فَتَ<tajweed class=ikhafa>نف</tajweed>َعَهُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ذِّكْرَىٰٓ <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "أَ<tajweed class=ghunnah>مّ</tajweed>َا مَنِ <tajweed class=ham_wasl>ٱ</tajweed>سْتَغْنَىٰ <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "فَأَ<tajweed class=ikhafa>نت</tajweed>َ لَهُ<tajweed class=madda_normal>ۥ</tajweed> تَصَدَّىٰ <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا مَ<tajweed class=ikhafa>ن ج</tajweed><tajweed class=madda_obligatory>َا</tajweed>ٓءَكَ يَسْعَىٰ <span class=end>٨</span>"
+    },
+    {
+      "ayah_number": 9,
+      "text_tajweed_html": "وَهُوَ يَخْشَىٰ <span class=end>٩</span>"
+    },
+    {
+      "ayah_number": 10,
+      "text_tajweed_html": "فَأَ<tajweed class=ikhafa>نت</tajweed>َ عَنْهُ تَلَهَّىٰ <span class=end>١٠</span>"
+    }
+  ]
+}

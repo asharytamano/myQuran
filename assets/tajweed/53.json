@@ -1,0 +1,45 @@
+{
+  "surah": 53,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=qalaqah>جْ</tajweed>مِ إِذَا هَوَىٰ <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "وَمَا يَ<tajweed class=ikhafa>نط</tajweed>ِقُ عَنِ <tajweed class=ham_wasl>ٱ</tajweed>لْهَوَىٰٓ <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "إِنْ هُوَ إِلَّا وَحْ<tajweed class=idgham_ghunnah>ىٌ ي</tajweed>ُوحَىٰ <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "عَلَّمَهُ<tajweed class=madda_normal>ۥ</tajweed> شَدِيدُ <tajweed class=ham_wasl>ٱ</tajweed>لْقُوَىٰ <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "ذُو مِرَّ<tajweed class=ikhafa>ةٍ ف</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed>سْتَوَىٰ <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "وَهُوَ بِ<tajweed class=ham_wasl>ٱ</tajweed>لْأُفُقِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَعْلَىٰ <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ دَنَا فَتَدَلَّىٰ <span class=end>٨</span>"
+    },
+    {
+      "ayah_number": 9,
+      "text_tajweed_html": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَ<tajweed class=qalaqah>دْ</tajweed>نَىٰ <span class=end>٩</span>"
+    },
+    {
+      "ayah_number": 10,
+      "text_tajweed_html": "فَأَوْحَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> إِلَىٰ عَ<tajweed class=qalaqah>بْ</tajweed>دِه<tajweed class=madda_normal>ِۦ</tajweed> م<tajweed class=madda_obligatory>َآ</tajweed> أَوْحَىٰ <span class=end>١٠</span>"
+    }
+  ]
+}

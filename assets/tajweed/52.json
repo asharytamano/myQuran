@@ -1,0 +1,45 @@
+{
+  "surah": 52,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>طّ<tajweed class=madda_permissible>ُو</tajweed>رِ <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "وَكِتَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>بٍ م</tajweed>َّسْط<tajweed class=madda_permissible>ُو</tajweed>رٍ <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "فِى رَ<tajweed class=idgham_ghunnah>قٍّ م</tajweed>َّ<tajweed class=ikhafa>نش</tajweed><tajweed class=madda_permissible>ُو</tajweed>رٍ <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لْبَيْتِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَعْم<tajweed class=madda_permissible>ُو</tajweed>رِ <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّ<tajweed class=qalaqah>قْ</tajweed>فِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَرْف<tajweed class=madda_permissible>ُو</tajweed>عِ <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لْبَحْرِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَسْج<tajweed class=madda_permissible>ُو</tajweed>رِ <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ عَذَابَ رَبِّكَ لَو<tajweed class=madda_normal>َٲ</tajweed>قِعٌ <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "مَّا لَهُ<tajweed class=madda_normal>ۥ</tajweed> مِ<tajweed class=ikhafa>ن د</tajweed>َافِعٍ <span class=end>٨</span>"
+    },
+    {
+      "ayah_number": 9,
+      "text_tajweed_html": "يَوْمَ تَمُورُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءُ مَوْرًا <span class=end>٩</span>"
+    },
+    {
+      "ayah_number": 10,
+      "text_tajweed_html": "وَتَسِيرُ <tajweed class=ham_wasl>ٱ</tajweed>لْجِبَالُ سَيْرًا <span class=end>١٠</span>"
+    }
+  ]
+}

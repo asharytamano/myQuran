@@ -1,0 +1,45 @@
+{
+  "surah": 42,
+  "ayahs": [
+    {
+      "ayah_number": 1,
+      "text_tajweed_html": "ح<tajweed class=madda_necessary>مٓ</tajweed> <span class=end>١</span>"
+    },
+    {
+      "ayah_number": 2,
+      "text_tajweed_html": "<tajweed class=madda_necessary>عٓ</tajweed><tajweed class=madda_necessary>سٓ</tajweed><tajweed class=madda_necessary>قٓ</tajweed> <span class=end>٢</span>"
+    },
+    {
+      "ayah_number": 3,
+      "text_tajweed_html": "كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ يُوح<tajweed class=madda_obligatory>ِىٓ</tajweed> إِلَيْكَ وَإِلَى <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ مِ<tajweed class=ikhafa>ن ق</tajweed>َ<tajweed class=qalaqah>بْ</tajweed>لِكَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed>لْحَك<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٣</span>"
+    },
+    {
+      "ayah_number": 4,
+      "text_tajweed_html": "لَهُ<tajweed class=madda_normal>ۥ</tajweed> مَا فِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمَ<tajweed class=madda_normal>ـٰ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>تِ وَمَا فِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ‌ۖ وَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَلِىُّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَظ<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٤</span>"
+    },
+    {
+      "ayah_number": 5,
+      "text_tajweed_html": "تَكَادُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمَ<tajweed class=madda_normal>ـٰ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>تُ يَتَفَطَّرْنَ مِ<tajweed class=ikhafa>ن ف</tajweed>َوْقِهِ<tajweed class=ghunnah>نّ</tajweed>َ‌ۚ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْمَلَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَ<tajweed class=ikhafa>ن ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ‌ۗ أَل<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْغَفُورُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٥</span>"
+    },
+    {
+      "ayah_number": 6,
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ <tajweed class=ham_wasl>ٱ</tajweed>تَّخَذُو<tajweed class=slnt>اْ</tajweed> مِ<tajweed class=ikhafa>ن د</tajweed>ُونِه<tajweed class=madda_obligatory>ِۦٓ</tajweed> أَوْلِي<tajweed class=madda_obligatory>َا</tajweed>ٓءَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ حَفِيظٌ عَلَيْهِمْ وَم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ عَلَيْه<tajweed class=ikhafa_shafawi>ِم ب</tajweed>ِوَك<tajweed class=madda_permissible>ِي</tajweed>لٍ <span class=end>٦</span>"
+    },
+    {
+      "ayah_number": 7,
+      "text_tajweed_html": "وَكَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ أَوْحَيْن<tajweed class=madda_obligatory>َآ</tajweed> إِلَيْكَ قُرْءَانًا عَرَبِي<tajweed class=idgham_wo_ghunnah>ًّا ل</tajweed>ِّتُ<tajweed class=ikhafa>نذ</tajweed>ِرَ أُ<tajweed class=ghunnah>مّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْقُرَىٰ وَمَنْ حَوْلَهَا وَتُ<tajweed class=ikhafa>نذ</tajweed>ِرَ يَوْمَ <tajweed class=ham_wasl>ٱ</tajweed>لْجَمْعِ لَا رَيْبَ فِيهِ‌ۚ فَرِي<tajweed class=ikhafa>قٌ ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed>لْجَ<tajweed class=ghunnah>نّ</tajweed>َةِ وَفَرِي<tajweed class=ikhafa>قٌ ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّع<tajweed class=madda_permissible>ِي</tajweed>رِ <span class=end>٧</span>"
+    },
+    {
+      "ayah_number": 8,
+      "text_tajweed_html": "وَلَوْ ش<tajweed class=madda_obligatory>َا</tajweed>ٓءَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ لَجَعَلَهُمْ أُ<tajweed class=ghunnah>مّ</tajweed>َ<tajweed class=idgham_ghunnah>ةً و</tajweed><tajweed class=madda_normal>َٲ</tajweed>حِدَ<tajweed class=idgham_ghunnah>ةً و</tajweed>َلَ<tajweed class=madda_normal>ـٰ</tajweed>ك<tajweed class=idgham_ghunnah>ِن ي</tajweed>ُ<tajweed class=qalaqah>دْ</tajweed>خِلُ م<tajweed class=idgham_ghunnah>َن ي</tajweed>َش<tajweed class=madda_obligatory>َا</tajweed>ٓءُ فِى رَحْمَتِه<tajweed class=madda_normal>ِۦ</tajweed>‌ۚ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ظَّ<tajweed class=madda_normal>ـٰ</tajweed>لِمُونَ مَا لَه<tajweed class=idgham_shafawi>ُم م</tajweed>ّ<tajweed class=idgham_ghunnah>ِن و</tajweed>َلِ<tajweed class=idgham_ghunnah>ىٍّ و</tajweed>َلَا نَص<tajweed class=madda_permissible>ِي</tajweed>رٍ <span class=end>٨</span>"
+    },
+    {
+      "ayah_number": 9,
+      "text_tajweed_html": "أَمِ <tajweed class=ham_wasl>ٱ</tajweed>تَّخَذُو<tajweed class=slnt>اْ</tajweed> مِ<tajweed class=ikhafa>ن د</tajweed>ُونِه<tajweed class=madda_obligatory>ِۦٓ</tajweed> أَوْلِي<tajweed class=madda_obligatory>َا</tajweed>ٓءَ‌ۖ فَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهُ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْوَلِىُّ وَهُوَ يُحْىِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ ش<tajweed class=ikhafa>َىْءٍ ق</tajweed>َد<tajweed class=madda_permissible>ِي</tajweed>رٌ <span class=end>٩</span>"
+    },
+    {
+      "ayah_number": 10,
+      "text_tajweed_html": "وَمَا <tajweed class=ham_wasl>ٱ</tajweed>خْتَلَفْتُمْ فِيهِ مِ<tajweed class=ikhafa>ن ش</tajweed><tajweed class=ikhafa>َىْءٍ ف</tajweed>َحُكْمُهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> إِلَى <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ‌ۚ ذ<tajweed class=madda_normal>َٲ</tajweed>لِكُمُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُن<tajweed class=madda_permissible>ِي</tajweed><tajweed class=qalaqah>ب</tajweed>ُ <span class=end>١٠</span>"
+    }
+  ]
+}
