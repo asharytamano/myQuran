@@ -1,16 +1,31 @@
-# myquran
+# MYQURAN PROJECT
 
-A new Flutter project.
+This repository supports the **MyQuran** initiative – a digital Qur’an exploration and learning tool.
 
-## Getting Started
+It contains:
 
-This project is a starting point for a Flutter application.
+- Selected Qur’anic text segments
+- Supporting translation / interpretation data
+- Early-stage app or web logic
+- Experiments with Qur’an-based tools
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## PURPOSE
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Personal and educational Qur’an study
+✅ Framework for larger Islamic tools
+✅ Exploration of AI + Scripture integration
+✅ Spiritual & technical development
+
+---
+
+## FUTURE DIRECTION
+
+- Merge with Tafsir / Duas / Translation projects
+- Add study plans
+- Add reflection prompts
+
+---
+
+🖊 Maintained by: Ashary Tamano
